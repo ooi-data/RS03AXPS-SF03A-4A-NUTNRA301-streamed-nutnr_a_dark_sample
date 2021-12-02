@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/RS03AXPS-SF03A-4A-NUTNRA301-streamed-nutnr_a_dark_sample
 data_stream: RS03AXPS-SF03A-4A-NUTNRA301-streamed-nutnr_a_dark_sample
 end_date: '2021-12-01T21:52:59.788Z'
-last_updated: '2021-12-02T04:37:55.914581Z'
+last_updated: '2021-12-02T04:48:37.423591'
 start_date: '2014-10-07T21:55:08.530Z'
-status: pending
+status: success
